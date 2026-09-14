@@ -1,7 +1,7 @@
 # Taskflow
-[![Estado del Proyecto](https://shields.io)](https://github.com)
-[![Licencia](https://shields.io)](https://github.com)
-[![Versión Node](https://shields.io)](https://github.com)
+![GitHub last commit](https://shields.io)
+![GitHub issues](https://shields.io)
+![GitHub stars](https://shields.io)
 
 ### Gestión de tareas eficiente, colaborativa y moderna.
 
@@ -50,7 +50,7 @@ Siga estos pasos sencillos para arrancar la aplicación en su entorno local:
 1. **Clonar el proyecto:**
    ```bash
    git clone https://github.com
-   cd taskflow
+   cd Lab04_Medina_Fidel
    ```
 2. **Instalar dependencias:**
    ```bash
