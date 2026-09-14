@@ -1,11 +1,8 @@
 # Taskflow
+![GitHub last commit](https://shields.io)
+![GitHub issues](https://shields.io)
+![GitHub stars](https://shields.io)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/fidelmedina-arch
-/Lab04_Medina_Fidel)
-![GitHub issues](https://img.shields.io/github/issues/fidelmedina-arch
-/Lab04_Medina_Fidel)
-![GitHub stars](https://img.shields.io/github/stars/fidelmedina-arch
-/Lab04_Medina_Fidel)
 
 
 ### Gestión de tareas eficiente, colaborativa y moderna.
@@ -76,4 +73,17 @@ Sigue el estado actual del desarrollo de TaskFlow:
 - [ ] Implementar la autenticación de usuarios.
 - [ ] Desarrollar el sistema de comentarios dentro de las tareas.
 - [ ] Integrar el módulo de reportes y estadísticas de rendimiento.
+
+
+---
+## Capturas de Pantalla
+
+| Pantalla de Inicio de Sesión | Pantalla Principal (Dashboard) |
+| :---: | :---: |
+| ![Inicio de Sesión](https://placeholder.com) | ![Pantalla Principal](https://placeholder.com) |
+
+| Pantalla del Tablero Kanban | Pantalla de Configuración |
+| :---: | :---: |
+| ![Funcionalidad Principal](https://placeholder.com) | ![Otra Pantalla Relevante](https://placeholder.com) |
+
 
