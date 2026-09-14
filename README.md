@@ -1,8 +1,10 @@
 # Taskflow
-![GitHub last commit](https://shields.io)
-![GitHub issues](https://shields.io)
-![GitHub stars](https://shields.io)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/fidelmedina-arch
+/Lab04_Medina_Fidel)
+![GitHub issues](https://img.shields.io/github/issues/fidelmedina-arch
+/Lab04_Medina_Fidel)
+![GitHub stars](https://img.shields.io/github/stars/fidelmedina-arch
+/Lab04_Medina_Fidel)
 
 
 ### Gestión de tareas eficiente, colaborativa y moderna.
